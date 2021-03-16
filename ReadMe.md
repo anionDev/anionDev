@@ -4,7 +4,7 @@ Hello, I am Marius Göcke. I am a computer scientist and softwaredeveloper, with
 
 ## Stats
 
-[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anionDev&exclude_repo=GRYLibraryReference,anionDev,anionDev.github.io(](https://github.com/anuraghazra/github-readme-stats)
+[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anionDev&exclude_repo=GRYLibraryReference,anionDev,anionDev.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=anionDev)](https://github.com/anuraghazra/github-readme-stats)
 
