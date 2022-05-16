@@ -15,7 +15,7 @@ Some projects that I write in my spare time are available on GitHub:
 
 ## Other Communities
 
-- [Stackoverflow](https://stackexchange.com/users/4840330/anion?tab=accounts)
+- [StackExchange](https://stackexchange.com/users/4840330/anion?tab=accounts)
 - [Xing](https://www.xing.com/profile/Marius_Goecke)
 
 ## Public key
