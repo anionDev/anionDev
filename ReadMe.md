@@ -20,7 +20,7 @@ Some projects that I write in my spare time are available on GitHub:
 
 ## Public key
 
-My public PGP-Key, also raw available [here](./PublicKeys/PGP-Key.txt):
+My public PGP-Key (also raw available [here](https://raw.githubusercontent.com/anionDev/anionDev/main/PublicKeys/PGP-Key.txt)):
 
 ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
