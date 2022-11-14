@@ -1,6 +1,6 @@
 # Marius Göcke
 
-Hello, I am Marius Göcke. I am a computer scientist and software-developer, with more than 5 years experience.
+Hello, I am Marius Göcke. I am a German computer scientist and software-developer with more than 5 years of experience.
 
 ## Stats
 
@@ -12,6 +12,7 @@ Some projects that I write in my spare time are available on GitHub:
 
 - [GRYLibrary](https://github.com/anionDev/GRYLibrary)
 - [ScriptCollection](https://github.com/anionDev/ScriptCollection)
+- [ProjectTemplates](https://github.com/anionDev/ProjectTemplates)
 
 ## Other Communities
 
