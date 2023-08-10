@@ -4,7 +4,7 @@ Hello, I am Marius Göcke. I am a German computer scientist and software-develop
 
 ## Stats
 
-[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anionDev&exclude_repo=GRYLibraryReference,ScriptCollectionReference,anionDev,anionDev.github.io,PietInterpreterReference,GRYVABitcoinNodeReference,GRYVAPaperServerReference,GRYVAIcecastServerReference,GRYVATorRelayReference)](https://github.com/anuraghazra/github-readme-stats)
+[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anionDev&exclude_repo=anionDev,anionDev.github.io,EpewReference,GRYLibraryReference,GRYVABitcoinNodeReference,GRYVAIcecastServerReference,GRYVAPaperServerReference,GRYVATorProxyReference,GRYVATorRelayReference,PietInterpreterReference,ScriptCollectionReference)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Main projects
 
@@ -12,16 +12,17 @@ Some projects that I write in my spare time are available on GitHub:
 
 - [GRYLibrary](https://github.com/anionDev/GRYLibrary)
 - [ScriptCollection](https://github.com/anionDev/ScriptCollection)
-- [ProjectTemplates](https://github.com/anionDev/ProjectTemplates)
+- [ProjectTemplates](https://projects.aniondev.de/PublicProjects/Common/ProjectTemplates)
 
-## Other Communities
+## Communities
 
 - [StackExchange](https://stackexchange.com/users/4840330/anion?tab=accounts)
 - [Xing](https://www.xing.com/profile/Marius_Goecke)
 
-## Public key
+## Contact
 
-My public PGP-Key (also raw available [here](https://raw.githubusercontent.com/anionDev/anionDev/main/PublicKeys/PGP-Key.txt)):
+My main e-mail-address is `marius.goecke@gmail.com`.
+My public PGP-Key (also raw available [here](https://raw.githubusercontent.com/anionDev/anionDev/main/PublicKeys/PGP-Key.txt)) is:
 
 ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
