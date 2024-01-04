@@ -14,11 +14,6 @@ Some projects that I write in my spare time are available on GitHub:
 - [ScriptCollection](https://github.com/anionDev/ScriptCollection)
 - [ProjectTemplates](https://projects.aniondev.de/PublicProjects/Common/ProjectTemplates)
 
-## Communities
-
-- [StackExchange](https://stackexchange.com/users/4840330/anion?tab=accounts)
-- [Xing](https://www.xing.com/profile/Marius_Goecke)
-
 ## Contact
 
 My main e-mail-address is `marius.goecke@gmail.com`.
