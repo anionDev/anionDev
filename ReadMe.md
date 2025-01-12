@@ -4,7 +4,7 @@ Hello, I am Marius Göcke. I am a German computer scientist and software-develop
 
 ## Stats
 
-[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anionDev&exclude_repo=anionDev,anionDev.github.io,AdameReference,EpewReference,GRYLibraryReference,GRYVABitcoinNodeReference,GRYVAIcecastServerReference,GRYVAPaperServerReference,GRYVATorProxyReference,GRYVATorRelayReference,PietInterpreterReference,ScriptCollectionReference)](https://github.com/anuraghazra/github-readme-stats)
+[![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anionDev&exclude_repo=anionDev,anionDev.github.io,AdameReference,ClientInformationReference,EpewReference,GRYLibraryReference,GRYVABitcoinNodeReference,GRYVAIcecastServerReference,GRYVAPaperServerReference,GRYVATorProxyReference,GRYVATorRelayReference,PietInterpreterReference,ScriptCollectionReference)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Main projects
 
@@ -12,7 +12,6 @@ Some projects that I write in my spare time are available on GitHub:
 
 - [GRYLibrary](https://github.com/anionDev/GRYLibrary)
 - [ScriptCollection](https://github.com/anionDev/ScriptCollection)
-- [ProjectTemplates](https://projects.aniondev.de/PublicProjects/Common/ProjectTemplates)
 
 ## Contact
 
